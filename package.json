@@ -1,5 +1,5 @@
 {
-  "name": "redux-action-validator",
+  "name": "redux-validate-actions",
   "version": "1.0.0",
   "description": "A Redux middleware to validate actions to some standard used in your organization (e.g. Flux Standard Actions) and log wrongly formatted actions to console",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asn007/redux-action-validator.git"
+    "url": "git+https://github.com/asn007/redux-validate-actions.git"
   },
   "keywords": [
     "redux",
@@ -20,9 +20,9 @@
   "author": "Andrey Sinitsyn <andrey.sin98@gmail.com> (http://andrey.space)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asn007/redux-action-validator/issues"
+    "url": "https://github.com/asn007/redux-validate-actions/issues"
   },
-  "homepage": "https://github.com/asn007/redux-action-validator#readme",
+  "homepage": "https://github.com/asn007/redux-validate-actions#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
