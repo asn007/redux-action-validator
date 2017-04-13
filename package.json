@@ -1,6 +1,6 @@
 {
   "name": "redux-validate-actions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Redux middleware to validate actions to some standard used in your organization (e.g. Flux Standard Actions) and log wrongly formatted actions to console",
   "main": "lib/index.js",
   "scripts": {
